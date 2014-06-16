@@ -1,0 +1,4 @@
+RESULTS_DIR='results/';
+IMGS_DIR='~/work/project/datasets/oxford_building/oxbuild_images/';
+IMG_NAMES_LIST='~/work/project/datasets/oxford_building/OxbuildImgList.txt';
+addpath gist;
