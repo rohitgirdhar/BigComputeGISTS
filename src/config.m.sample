@@ -1,4 +1,5 @@
 RESULTS_DIR='results/';
+GISTS_STOR_DIR='gists_stor/';
 IMGS_DIR='~/work/project/datasets/oxford_building/oxbuild_images/';
 IMG_NAMES_LIST='~/work/project/datasets/oxford_building/OxbuildImgList.txt';
 addpath gist;
